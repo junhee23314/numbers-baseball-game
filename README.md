@@ -1,8 +1,7 @@
 # numbers-baseball-game
 
 <숫자 야구 게임>
-
-
+![숫자야구게임_1](https://github.com/junhee23314/numbers-baseball-game/blob/main/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84%EC%9D%B4%EB%AF%B8%EC%A7%80_1.png)
 # 1. 컴퓨터가 0~9까지 3개의 서로 다른 난수를 발생시킨다.  
 ***- 난수발생 메소드 - 난수를 9로 나눈 나머지+1***
 - 서로 다른 수 => do while을 사용하여 난수를 먼저 발생시키고 서로 다른 수가 될 때까지 반복
